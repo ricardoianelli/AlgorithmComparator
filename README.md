@@ -27,8 +27,7 @@ One problem I faced was that after some runs, JVM considered my code hot and com
 The solution I came up with was a method heatAlgorithm, where I run the algorithms against small inputs several times to guarantee that those pieces
 of code are already compiled once I start the real tests.
 
-##🖥️ How to Run 🖥️
-### Requirements:
+### ⚙️ Requirements⚙️ 
 - Java 8+ Preferably (Though it may run in much older versions)
 
 ### 🚀 Running it 🚀
@@ -43,9 +42,10 @@ of code are already compiled once I start the real tests.
 - Handle more types of algorithms
 
 ## 🚧 Contributing 🚧
-If you see a potential improvement in coding, structure or best practices, please, let me know. I'm here to learn!
+If you see a potential improvement in coding, structure or best practices, please, let me know. I'm here to learn! 
+
+
 If you want to contribute, don't be shy! Open a pull request and let's create something better together!
----
 
 ## Show your support
 
