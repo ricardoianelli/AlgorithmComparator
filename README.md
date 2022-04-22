@@ -38,6 +38,7 @@ of code are already compiled once I start the real tests.
 ### 🔮 Next Steps!🔮
 
 - Export results in .csv
+- Inform approximated Big-O notations
 - Create a GUI to display results as graphs
 - Handle more types of algorithms
 
